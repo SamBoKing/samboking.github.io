@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "url": "https://primevue.org/button/",
+          "content": null,
+          "type": "lvl1",
+          "hierarchy": {
+            "lvl0": "Documentation22",
+            "lvl1": "Button22"
+          }
+        }
+      ]
+    }
+  ]
+}

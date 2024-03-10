@@ -1,0 +1,1 @@
+console.dir('sample javascript hi~')
