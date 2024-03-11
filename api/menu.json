@@ -113,7 +113,7 @@
       "icon": "pi pi-cog",
       "children": [
         {
-          "name": "서비스조회",
+          "name": "대시보드",
           "to": "/system/main"
         }
       ]
