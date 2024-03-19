@@ -1,122 +1,120 @@
-{
-  "menu": [
+[
     {
-      "name": "업무관리",
+      "label": "업무관리",
       "icon": "pi pi-home",
-      "children": [
+      "items": [
         {
-          "name": "업무코드 목록",
+          "label": "업무코드 목록",
           "to": "/work/work1"
         },
         {
-          "name": "업무코드 등록",
-          "to": "/work/work2"
+          "label": " 주소록관리",
+          "to": "/address"
         },
         {
-          "name": "변수관리",
+          "label": "변수관리",
           "to": "/work/work3"
         },
         {
-          "name": "발신번호 관리",
+          "label": "발신번호 관리",
           "to": "/work/work4"
         },
         {
-          "name": "금칙어관리",
+          "label": "금칙어관리",
           "to": "/work/work5"
         }
       ]
     },
     {
-      "name": "채널관리",
+      "label": "채널관리",
       "icon": "pi pi-clone",
-      "children": [
+      "items": [
         {
-          "name": "SMS/LMS/MMS",
+          "label": "SMS/LMS/MMS",
           "to": "/chanel/msg"
         },
         {
-          "name": "RCS",
+          "label": "RCS",
           "to": "/chanel/rcs"
         },
         {
-          "name": "알림톡",
+          "label": "알림톡",
           "to": "/chanel/kakao"
         },
         {
-          "name": "PUSH",
+          "label": "PUSH",
           "to": "/chanel/push"
         }
       ]
     },
     {
-      "name": "승인관리",
+      "label": "승인관리",
       "icon": "pi pi-unlock",
-      "children": [
+      "items": [
         {
-          "name": "승인자관리",
+          "label": "승인자관리",
           "to": "/auth/main"
         }
       ]
     },
     {
-      "name": "발송관리",
+      "label": "발송관리",
       "icon": "pi pi-send",
-      "children": [
+      "items": [
         {
-          "name": "발송화면",
+          "label": "발송화면",
           "to": "/send/main"
         }
       ]
     },
     {
-      "name": "캡페인발송",
+      "label": "캡페인발송",
       "icon": "pi pi-box",
-      "children": [
+      "items": [
         {
-          "name": "캡페인발송",
+          "label": "캡페인발송",
           "to": "/campaign/main"
         }
       ]
     },
     {
-      "name": "이력조회",
+      "label": "이력조회",
       "icon": "pi pi-list",
-      "children": [
+      "items": [
         {
-          "name": "발송이력조회",
+          "label": "발송이력조회",
           "to": "/history/main"
         }
       ]
     },
     {
-      "name": "통계조회",
+      "label": "통계조회",
       "icon": "pi pi-chart-bar",
-      "children": [
+      "items": [
         {
-          "name": "발송통계",
+          "label": "발송통계",
           "to": "/statistics/main"
         }
       ]
     },
     {
-      "name": "서비스관리",
+      "label": "서비스관리",
       "icon": "pi pi-thumbs-up",
-      "children": [
+      "items": [
         {
-          "name": "서비스조회",
-          "to": "/service/main"
+          "label": "서비스조회",
+          "to": "/service"
         }
       ]
     },
     {
-      "name": "시스템관리",
+      "label": "시스템관리",
       "icon": "pi pi-cog",
-      "children": [
+      "items": [
         {
-          "name": "대시보드",
+          "label": "대시보드",
           "to": "/system/main"
         }
       ]
     }
-  ]
-}
+]

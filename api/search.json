@@ -1,4 +1,8 @@
 {
+
+  "mySource": {
+    "a": 1
+  },
   "results": [
     {
       "hits": [

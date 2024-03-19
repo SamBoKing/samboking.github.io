@@ -1,0 +1,36 @@
+[
+    {
+      "color": "bg-purple-500",
+      "name": "사용자 그룹",
+      "description": "사용자를 지정한 그룹",
+      "users": 4
+    },
+    {
+      "id": 1,
+      "color": "bg-blue-500",
+      "name": "관리자 그룹",
+      "description": "관리자를 지정한 그룹",
+      "users": 2
+    },
+    {
+      "id": 2,
+      "color": "bg-indigo-500",
+      "name": "개발자 그룹",
+      "description": "개발자를 지정한 그룹",
+      "users": 1
+    },
+    {
+      "id": 3,
+      "color": "bg-green-500",
+      "name": "임시 그룹",
+      "description": "임시 지정한 그룹",
+      "users": 4
+    },
+    {
+      "id": 4,
+      "color": "bg-red-500",
+      "name": "삭제 그룹",
+      "description": "삭제된 그룹",
+      "users": 7
+    }
+]
