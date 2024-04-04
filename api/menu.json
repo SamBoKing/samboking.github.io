@@ -8,20 +8,20 @@
           "to": "/work/work1"
         },
         {
-          "label": " 주소록관리",
-          "to": "/address"
-        },
-        {
           "label": "변수관리",
-          "to": "/work/work3"
+          "to": "/work/work2"
         },
         {
           "label": "발신번호 관리",
-          "to": "/work/work4"
+          "to": "/work/work3"
         },
         {
           "label": "금칙어관리",
-          "to": "/work/work5"
+          "to": "/work/work4"
+        },
+        {
+          "label": "주소록관리",
+          "to": "/address"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "items": [
         {
           "label": "승인자관리",
-          "to": "/auth/main"
+          "to": "/auth"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "items": [
         {
           "label": "발송화면",
-          "to": "/send/main"
+          "to": "/send"
         }
       ]
     },
@@ -73,7 +73,7 @@
       "items": [
         {
           "label": "캡페인발송",
-          "to": "/campaign/main"
+          "to": "/campaign"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "items": [
         {
           "label": "발송이력조회",
-          "to": "/history/main"
+          "to": "/history"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "items": [
         {
           "label": "발송통계",
-          "to": "/statistics/main"
+          "to": "/statistics"
         }
       ]
     },
@@ -113,7 +113,7 @@
       "items": [
         {
           "label": "대시보드",
-          "to": "/system/main"
+          "to": "/system"
         }
       ]
     }

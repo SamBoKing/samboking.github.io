@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "url": "/user?id=1234",
+          "content": "content",
+          "type": "lvl1",
+          "hierarchy": {
+            "lvl0": "사용자 정보",
+            "lvl1": "홍길동",
+            "lvl2": "010-****-1234",
+            "lvl3": "Level - 3",
+            "lvl4": "Level - 4",
+            "lvl5": "Level - 5",
+            "lvl6": null
+          }
+        },
+        {
+          "url": "/user?id=1111",
+          "content": null,
+          "type": "lvl1",
+          "hierarchy": {
+            "lvl0": "사용자 정보",
+            "lvl1": "고길동"
+          }
+        }
+      ]
+    }
+  ]
+}

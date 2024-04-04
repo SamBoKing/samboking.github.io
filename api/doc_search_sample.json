@@ -1,0 +1,998 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "url": "https://primevue.org/button/",
+          "content": null,
+          "type": "lvl1",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": null,
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "2-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button",
+          "content": null,
+          "type": "lvl1",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": null,
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "2-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#import",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Import",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "4-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Import",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Import",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#import",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Import",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "4-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Import",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Import",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#basic",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Basic",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "5-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Basic",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Basic",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#basic",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Basic",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "5-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Basic",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Basic",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#link",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Link",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "7-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Link",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Link",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#link",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Link",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "7-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Link",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Link",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#icons",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Icons",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "9-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Icons",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Icons",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#icons",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Icons",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "9-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Icons",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Icons",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#loading",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Loading",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "11-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Loading",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Loading",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#loading",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Loading",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "11-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Loading",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Loading",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#severity",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Severity",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "13-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Severity",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Severity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#severity",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Severity",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "13-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Severity",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Severity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#disabled",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Disabled",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "15-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Disabled",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Disabled",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#disabled",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Disabled",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "15-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Disabled",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Disabled",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#raised",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Raised",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "17-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Raised",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Raised",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#raised",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Raised",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "17-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Raised",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Raised",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button/#rounded",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Rounded",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "19-https://primevue.org/button/",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Rounded",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Rounded",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "url": "https://primevue.org/button#rounded",
+          "content": null,
+          "type": "lvl2",
+          "hierarchy": {
+            "lvl0": "Documentation",
+            "lvl1": "Button",
+            "lvl2": "Rounded",
+            "lvl3": null,
+            "lvl4": null,
+            "lvl5": null,
+            "lvl6": null
+          },
+          "objectID": "19-https://primevue.org/button",
+          "_snippetResult": {
+            "hierarchy": {
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full"
+              },
+              "lvl2": {
+                "value": "Rounded",
+                "matchLevel": "none"
+              }
+            }
+          },
+          "_highlightResult": {
+            "hierarchy": {
+              "lvl0": {
+                "value": "Documentation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "lvl1": {
+                "value": "<mark>Button</mark>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "button"
+                ]
+              },
+              "lvl2": {
+                "value": "Rounded",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        }
+      ],
+      "nbHits": 264,
+      "page": 0,
+      "nbPages": 14,
+      "hitsPerPage": 20,
+      "exhaustiveNbHits": true,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "nbHits": true,
+        "typo": true
+      },
+      "query": "button",
+      "params": "query=button&attributesToRetrieve=%5B%22hierarchy.lvl0%22%2C%22hierarchy.lvl1%22%2C%22hierarchy.lvl2%22%2C%22hierarchy.lvl3%22%2C%22hierarchy.lvl4%22%2C%22hierarchy.lvl5%22%2C%22hierarchy.lvl6%22%2C%22content%22%2C%22type%22%2C%22url%22%5D&attributesToSnippet=%5B%22hierarchy.lvl1%3A5%22%2C%22hierarchy.lvl2%3A5%22%2C%22hierarchy.lvl3%3A5%22%2C%22hierarchy.lvl4%3A5%22%2C%22hierarchy.lvl5%3A5%22%2C%22hierarchy.lvl6%3A5%22%2C%22content%3A5%22%5D&snippetEllipsisText=%E2%80%A6&highlightPreTag=%3Cmark%3E&highlightPostTag=%3C%2Fmark%3E&hitsPerPage=20&clickAnalytics=false",
+      "index": "primevue",
+      "renderingContent": {},
+      "processingTimeMS": 2,
+      "processingTimingsMS": {
+        "_request": {
+          "roundTrip": 184
+        },
+        "getIdx": {
+          "load": {
+            "total": 1
+          },
+          "total": 1
+        },
+        "total": 2
+      },
+      "serverTimeMS": 2
+    }
+  ]
+}
