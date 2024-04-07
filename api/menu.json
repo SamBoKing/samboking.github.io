@@ -4,7 +4,7 @@
       "icon": "pi pi-home",
       "items": [
         {
-          "label": "업무코드 목록",
+          "label": "발송조회",
           "to": "/work/work1"
         },
         {
